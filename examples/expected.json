@@ -1,0 +1,8 @@
+{
+  "findings": [
+    {
+      "line": 1,
+      "issue": "unrestricted-passwordless-command"
+    }
+  ]
+}
